@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": " dazler",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "lakme",
+      "author": "typicode"
+    },{
+      "id": 3,
+      "title": "lotus",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
